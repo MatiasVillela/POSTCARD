@@ -1,24 +1,32 @@
 
-#postcard{margin-left: 35%;
+#postcard{border-width: 1px;
+    border-style: solid;
+    object-fit: contain;
+    margin-left: 35%;
     margin-top: 10%;
-    display: inline-block;
-    border-width: 1px;
     border-color: black;
-    height: 500px;
+    height: 300px;
     width: 400px;}
-#title{margin-top:10px;}
+#div1{margin-left: 10px;}
 
 button{text-align: center;
 margin-left: 35%;}
 
-#img1 {object-fit: contain;
+#img1 {
+    object-fit: contain;
     height: 80px;
 width: 80px;
-float: right;}
+float: right;
+margin-right: 20px ;}
 
-#mybody{width:100%;
-    display: inline;
-    margin-top:20px;
-    object-fit: contain;}
-#inputs{margin-left: 60%;}
-#parr1{display: inline;}
+#mybody2{width:50%;float: left;
+margin-left: 10px;
+margin margin-top: 40px;}
+
+#inputs{width: 45%;
+    float: right;
+margin-top: 10px;}
+
+#parr2{width: 95%;
+float: left;
+margin-left: 10px;}
