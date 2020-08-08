@@ -1,0 +1,24 @@
+
+#postcard{margin-left: 35%;
+    margin-top: 10%;
+    display: inline-block;
+    border-width: 1px;
+    border-color: black;
+    height: 500px;
+    width: 400px;}
+#title{margin-top:10px;}
+
+button{text-align: center;
+margin-left: 35%;}
+
+#img1 {object-fit: contain;
+    height: 80px;
+width: 80px;
+float: right;}
+
+#mybody{width:100%;
+    display: inline;
+    margin-top:20px;
+    object-fit: contain;}
+#inputs{margin-left: 60%;}
+#parr1{display: inline;}
